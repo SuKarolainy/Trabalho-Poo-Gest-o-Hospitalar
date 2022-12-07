@@ -1,0 +1,13 @@
+com\mycompany\projetopoo\Dados\TipoLogradouro.class
+com\mycompany\projetopoo\Consulta\Atendimento.class
+com\mycompany\projetopoo\Pessoas\Paciente.class
+com\mycompany\projetopoo\Dados\Celular.class
+com\mycompany\projetopoo\Dados\Pessoa.class
+com\mycompany\projetopoo\Consulta\Triagem.class
+com\mycompany\projetopoo\Dados\LocalDateTime.class
+com\mycompany\projetopoo\Pessoas\Funcionário.class
+com\mycompany\projetopoo\Pessoas\Médico.class
+com\mycompany\projetopoo\Dados\Comunicação.class
+com\mycompany\projetopoo\Dados\Endereço.class
+com\mycompany\projetopoo\ProjetoPOO.class
+com\mycompany\projetopoo\Consulta\Tratamento.class
